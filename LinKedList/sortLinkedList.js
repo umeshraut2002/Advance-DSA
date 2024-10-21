@@ -63,7 +63,6 @@ class linkedList{
         this.length++;
     }
     sort(){
-
     }
 }
 
